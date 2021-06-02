@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes 101</string>
+    <string name="str_NOTES_title">NOTES</string>
+    <string name="str_Notes_sub_title">We will remember it for YOU</string>
+    <string name="str_img_add_note_description">Button to add note</string>
+    <string name="str_tv_add_note_hint">Enter the Note</string>
+</resources>
